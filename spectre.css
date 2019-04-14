@@ -547,7 +547,7 @@ input.disabled + .form-icon {
   display: inline-block;
 }
 
-.container {
+.container-xcalc {
   margin-left: auto;
   margin-right: auto;
   padding-left: .4rem;
